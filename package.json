@@ -1,0 +1,14 @@
+{
+  "name": "tssw",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaidh",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^1.20150623.0"
+  }
+}
